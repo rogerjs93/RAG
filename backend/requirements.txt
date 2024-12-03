@@ -1,0 +1,9 @@
+pandas
+openpyxl
+python-dotenv
+flask
+flask-cors
+pymongo
+sentence-transformers
+numpy
+scikit-learn
